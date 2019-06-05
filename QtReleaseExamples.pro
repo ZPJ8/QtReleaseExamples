@@ -5,6 +5,6 @@
 #-------------------------------------------------
 
 TEMPLATE = subdirs
-SUBDIRS += QmlVersionInfo
+#SUBDIRS += QmlVersionInfo
 SUBDIRS += QtUninstallInfo
 SUBDIRS += QtShortcut
